@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 i do coding sometimes (Yes im very not active, i have school and a horrible attention span so yuhhhh)
+
+if you like my projects then good for you i guess :/
 
 <!--
 **HopeCreates/HopeCreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
