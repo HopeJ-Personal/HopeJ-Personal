@@ -1,6 +1,28 @@
-### Hi there 👋 i do coding sometimes (Yes im very not active, i have school and a horrible attention span so yuhhhh)
+Welcome to whatever this is :)
 
-if you like my projects then good for you i guess :/
+* 16 Year’s old, born in 2008
+* Self taught programmer
+* Started learning programming in elementary school around the age of 7-9 using an online tool called Scratch
+* Little experience in a decent amount of languages.
+* Autistic
+
+Traditional “programming” languages:
+* HTML
+* JavaScript
+* Python
+* Lua
+* Batch
+
+Niche programming languages:
+* Skript
+* * (Custom language heavily based on JavaScript for ease of making plugins for MC Java)
+
+Data-organization Language
+(Untraditional “programming” languages)
+* CSS
+* Markdown
+* JSON
+* YAML
 
 <!--
 **HopeCreates/HopeCreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
