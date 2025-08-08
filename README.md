@@ -8,7 +8,6 @@ Welcome to whatever this is :)
 * Autistic
 
 Traditional “programming” languages:
-* HTML
 * JavaScript
 * Python
 * Lua
@@ -20,6 +19,7 @@ Niche programming languages:
 
 Data-organization Language
 (Untraditional “programming” languages)
+* HTML
 * CSS
 * Markdown
 * JSON
