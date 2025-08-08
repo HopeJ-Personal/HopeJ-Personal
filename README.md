@@ -1,6 +1,6 @@
 Welcome to whatever this is :)
 
-* 16 Year’s old, born in 2008
+* 17 Year’s old, born in 2008
 * Self taught programmer
 * Actively learning programming, through personal means.
 * Started learning programming in elementary school around the age of 7-9 using an online tool called Scratch
